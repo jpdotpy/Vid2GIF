@@ -7,6 +7,6 @@ Install the required python library
 ```
 pip install moviepy
 ```
-Clone the repo & run this scrip Vid2Gif.py
+Clone the repo & run this script Vid2Gif.py
 
-Happy giffing 😤
+Happy Giffing 😤
